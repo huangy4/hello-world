@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-\n Ancora Imparo
+Ancora Imparo
